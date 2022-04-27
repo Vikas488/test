@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: [ master ]
 
-name: Httpd Project `test` CI on ECR
+name: Httpd Project `my-app` CI on ECR
 
 jobs:
   deploy:
